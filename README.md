@@ -99,9 +99,20 @@
   <img src="https://img.shields.io/badge/-Mohamed%20Ahmed-DB4437?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 
+## 🐍 Snake Contribution Grid
+
+<div align="center">
+  
+  <!-- This animation expects a GitHub Action that generates the SVG into the `output` branch.
+       If you fork this, replace `mohamedxahmedd` below with your GitHub username
+       (and enable the snake GitHub Action in your repo). -->
+  ![snake gif](https://github.com/mohamedxahmedd/mohamedxahmedd/blob/output/github-snake-dark.svg)
+
+</div>
+
 ## 🌐 Explore More
 
-
+- Portfolio: *(add your link here, e.g., https://your-portfolio.example)*
 
 ## 🌟 Fun Fact
 
